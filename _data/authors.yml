@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Raymond Song
+  name:              M.R.S.
   email:             freezingbluesky@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -18,8 +18,8 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         maoyuans
-    github:          maoyuans
+    twitter:         YuuuuuuuuuSama
+    # github:          maoyuans
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
