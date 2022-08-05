@@ -16,6 +16,8 @@ description: >
 
 ### 2022
 
+- **[人性 - Humanity, English ver.](/blog/2022-07-31-eng.md)**. Aug 5 2022.
+
 - **[人性 - Humanity](/blog/2022-07-31.md)**. Jul 31 2022.
 
 - **[创作与创作欲 - Creation and Creative Desire](/blog/2022-01-16.md)**. Jan 16 2022.
