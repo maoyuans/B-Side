@@ -12,6 +12,8 @@ description: >
 
 ### 2022
 
+- **[Brief Thoughts and Echoes on Arguments against Image AIs](/misc/2022-10-22-image-ai.md)**. Oct 22 2022.
+
 ### 2021
 
 - **[Reflection](/misc/Reflection.md)**. Dec 25 2021.
