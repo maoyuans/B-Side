@@ -6,6 +6,8 @@ title: Ask
 
 Ask me questions. Any language is fine, I know how to use Google translate.
 
+I'll post the anonymous questions and answers here, when I have time, am bored, and feel like it. Check this once in a while for updates, I guess.
+
 <body>
 <form method="post" action="https://forms.un-static.com/forms/18d38e6b8df141e1731b2ba2c48db200121d610d">
   <div class="form-group row">
@@ -20,7 +22,7 @@ Ask me questions. Any language is fine, I know how to use Google translate.
     </div>
   </div>
 </form>
-<div align="center">
+<div>
   <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
 </div>
 </body>
