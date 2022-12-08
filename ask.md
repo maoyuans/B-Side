@@ -1,7 +1,8 @@
 ---
 # This is the 404 page of your site.
-layout: Page
+layout: page
 title: Ask
+permalink: ask
 ---
 
 Ask me questions. Any language is fine, I know how to use Google translate.

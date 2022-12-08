@@ -1,7 +1,8 @@
 ---
 # This is the 404 page of your site.
-layout: Page
+layout: page
 title: Success
+permalink: ok
 ---
 
 Nice.
