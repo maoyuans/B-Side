@@ -14,6 +14,10 @@ description: >
 
 ---
 
+### 2023
+
+- **[人类观察 - Human Observation](/blog/2023-04-12.md)**. Apr 13 2023.
+
 ### 2022
 
 - **[人性 - Humanity, English ver.](/blog/2022-07-31-eng.md)**. Aug 5 2022.
