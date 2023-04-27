@@ -16,13 +16,13 @@ description: >
 
 ### 2023
 
-- **[人类观察 - Human Observation](/blog/2023-04-12.md)**. Apr 13 2023.
+- **[人类观察 - Human Observation](/blog/2023-04-12.md) ([English ver.](/blog/2023-04-12-eng.md))**. Apr 13 2023.
 
 ### 2022
 
 - **[算法与道德 - Morality and Algorithms](/blog/2022-09-04.md)**. Sept 04 2022.
 
-- **[人性 - Humanity](/blog/2022-07-31.md) ([English ver.](/blog/2022-07-31-eng.md)**). Jul 31 2022.
+- **[人性 - Humanity](/blog/2022-07-31.md) ([English ver.](/blog/2022-07-31-eng.md))**. Jul 31 2022.
 
 - **[创作与创作欲 - Creation and Creative Desire](/blog/2022-01-16.md)**. Jan 16 2022.
 
