@@ -24,7 +24,7 @@ description: >
 
 - **[人性 - Humanity](/blog/2022-07-31.md) ([English ver.](/blog/2022-07-31-eng.md))**. Jul 31 2022.
 
-- **[创作与创作欲 - Creation and Creative Desire](/blog/2022-01-16.md) ([English ver.](/blog/2022-01-16.md))**. Jan 16 2022.
+- **[创作与创作欲 - Creation and Creative Desire](/blog/2022-01-16.md) ([English ver.](/blog/2022-01-16-eng.md))**. Jan 16 2022.
 
 - **[写作 - Writing](/blog/2022-01-02.md) ([English ver.](/blog/2022-01-02-eng.md))**. Jan 02 2022.
 
