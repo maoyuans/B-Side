@@ -10,6 +10,10 @@ description: >
   Other entries that I think do not belong elsewhere. Stories? Maybe there'll be stories.
 ---
 
+### 2023
+
+- **[451 - Yorushika (cover)](/misc/451cover.mp3)**. Dec 27 2023.
+
 ### 2022
 
 - **[Brief Thoughts and Echoes on Arguments against Image AIs](/misc/2022-10-22-image-ai.md)**. Oct 22 2022.
