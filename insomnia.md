@@ -16,7 +16,7 @@ description: >
 
 ### 2024
 
-- **[(Fahrenheit) 451](/blog/2024-02-26.md)**, a (book) review. Feb 27 2024.
+- **[(Fahrenheit) 451](/blog/2024-02-26.md) ([中文版](/blog/2024-02-26-chn.md))**, a (book) review. Feb 27 2024.
 
 ### 2023
 
