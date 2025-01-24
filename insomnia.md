@@ -13,6 +13,9 @@ description: >
   Maybe you should not read this. But if you're really into spying what I am thinking, make yourself at home.
 
 ---
+### 2025
+
+- **[仪式感 - Ceremonials](/blog/2025-01-23.md)**. Jan 23 2025.
 
 ### 2024
 
